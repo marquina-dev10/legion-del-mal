@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/release/marquina-dev10/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/marquina-dev10/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/marquina-dev10/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/marquina-dev10/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/marquina-dev10/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
