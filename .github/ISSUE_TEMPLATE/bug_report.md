@@ -2,7 +2,7 @@
 name: Bug report
 about: Ayudandos a mejorar
 title: 'Bug: '
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de software
 assignees: marquina-dev10
 
 ---
