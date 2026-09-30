@@ -10,3 +10,4 @@ Spiderman es
 ## Conocidos
 
 - su novia
+- su padre
